@@ -1,4 +1,4 @@
-# Solana Bot Package
+# Solana Meme Sniper Bot
 
 This Solana Bot Package is designed to automate interactions with the Raydium decentralized exchange and the Solana blockchain. The package includes two main bots: the Raydium Sniper Bot and the Meme Coin Bot. These bots help users efficiently manage their tokens, create markets, and optimize trading strategies.
 
@@ -51,11 +51,11 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/justshiftjk/Solana-Sniper-Memecoin-Bot
+   git clone https://github.com/keidev-sol/Solana-Meme-Sniper-Bot
    ```
 2. **Install Dependencies**:
    ```bash
-   cd Solana-Sniper-Memecoin-Bot
+   cd Solana-Meme-Sniper-Bot
    npm install
    ```
 3. **Configure Your Wallet**: Update the configuration file with your wallet details and desired settings.
@@ -106,5 +106,8 @@ Contributions are welcome! Feel free to open issues and submit PRs.
 This repo includes only sniping part due to the security problem.
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+## Contact
+
+- **Telegram:** [https://t.me/Kei4650](https://t.me/Kei4650)  
+- **Twitter:** [https://x.com/kei_4650](https://x.com/kei_4650)  
+
